@@ -134,7 +134,7 @@ section {
 }
 
 .exp-card {
-  width: 24.5em;
+  width: 24em;
   height: 22em;
   perspective: 1000px;
   display: inline-grid;
